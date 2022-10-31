@@ -1,0 +1,12 @@
+payload:
+  - DOMAIN-SUFFIX,parallels.com,REJECT
+  - DOMAIN-SUFFIX,parallels.com.cdn.cloudflare.net,REJECT
+  - DOMAIN-SUFFIX,parallels.cn,REJECT
+  - DOMAIN-SUFFIX,parallels.de,REJECT
+  - DOMAIN-SUFFIX,parallels.es,REJECT
+  - DOMAIN-SUFFIX,parallels.fr,REJECT
+  - DOMAIN-SUFFIX,parallels.nl,REJECT
+  - DOMAIN-SUFFIX,parallels.pt,REJECT
+  - DOMAIN-SUFFIX,parallels.ru,REJECT
+  - DOMAIN-SUFFIX,parallelskorea.com,REJECT
+  - DOMAIN-SUFFIX,myparallels.com,REJECT
